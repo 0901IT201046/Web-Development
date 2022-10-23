@@ -10,7 +10,7 @@ body {
 
 .header {
   text-align: center;
-  padding: 32px;
+  padding: 31px;
   background: #E0DDDD;
 }
 
@@ -37,4 +37,3 @@ body {
     width: 50%;
   }
 }
-
