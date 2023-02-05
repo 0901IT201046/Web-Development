@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+}
+
+.container1{
+    position: absolute;
+    width: 100%;
+    height: 592px;
+    background: #FFCD9E;
+}
+
+.part1{
+    margin-left: 10%;
+}
+
+.heading{
+    position: absolute;
+    width: 562px;
+    height: 108px;
+    left: 136px;
+    top: 83px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 150%;
+    color: #282828;
+}
+
+.para1{
+    position: absolute;
+    width: 495px;
+    height: 81px;
+    left: 136px;
+    top: 219px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    color: #484848;
+}
+
+.para2{
+    position: absolute;
+    width: 227px;
+    height: 81px;
+    left: 136px;
+    top: 315px;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    color: #282828;
+}
+
+input{
+    position: absolute;
+    width: 344px;
+    height: 64px;
+    left: 136px;
+    top: 411px;
+    background: #FFFFFF;
+    border: 4px solid #000000;
+    border-radius: 8px;
+    padding: 2vh;
+    font-size: 20px;
+    font-weight: 600;
+    color: #888888;
+}
+button{
+    position: absolute;
+    width: 216px;
+    height: 64px;
+    left: 496px;
+    top: 411px;
+    background: #282828;
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.para3{
+    position: absolute;
+    width: 344px;
+    height: 61px;
+    left: 134px;
+    top: 479px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.part2{
+    position: absolute;
+    margin-left: 60%;
+    margin-top: 5%;
+
+    background: #FFCD9E;
+}
+
+.container2{
+    position: absolute;
+    width: 100%;
+    height: 298px;
+    left: 0px;
+    top: 592px;
+    background: #282828;
+}
+
+.part3{
+    position: absolute;
+    width: 40%;
+    height: 36px;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.part3 p{
+    color: #FFFFFF;
+    padding: 1vh;
+    cursor: pointer;
+}
+
+.part4{
+    position: absolute;
+    width: 230px;
+    height: 36px;
+    margin-left: 65%;
+    margin-top: 5%;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.part4 p{
+    word-break: none;
+    cursor: pointer;
+}
+i{
+    border: 3px solid #FFCD9E;
+    color: #FFCD9E
+}
